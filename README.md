@@ -1,7 +1,5 @@
 # quasarbr (quasarbr)
 
-Um site contendo um resumo da documentação do Quasar Framework em Português do Brasil
-
 ## Install the dependencies
 ```bash
 npm install
